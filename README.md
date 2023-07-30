@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/AJstyles903/news-homepage)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://superb-gecko-53b785.netlify.app/)
 
 ## My process
 
